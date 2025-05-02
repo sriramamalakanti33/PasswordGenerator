@@ -1,7 +1,6 @@
 # PasswordGenerator
 
-`PasswordGenerator` is a Java utility for generating random passwords and passphrases with various customizable options. It supports generating multiple passwords at once, including specific character types, and excluding ambiguous characters.
-
+`PasswordGenerator`is a Java-based utility designed to generate secure random passwords and passphrases with customizable options. It supports bulk generation, allows users to specify character sets (such as uppercase, lowercase, numbers, and symbols), and can exclude ambiguous characters for better readability. The tool is built with flexibility and usability in mind, making it ideal for both personal and professional security needs.
 ## Features
 
 - Generate passwords with customizable length
